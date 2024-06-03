@@ -1,0 +1,2 @@
+# ResponsivePagina
+ creada con HTML y CSS, está diseñada para ofrecer una experiencia de usuario fluida en todos los dispositivos gracias a su diseño responsive. Presenta una interfaz moderna y limpia, optimización de imágenes para tiempos de carga rápidos, y animaciones sutiles para mejorar la interactividad. Además, hemos implementado prácticas de accesibilidad para garantizar que todos los usuarios puedan navegar fácilmente.
